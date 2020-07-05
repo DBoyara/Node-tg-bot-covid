@@ -1,0 +1,27 @@
+{
+  "name": "Node-tg-bot-covid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DBoyara/Node-tg-bot-covid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DBoyara/Node-tg-bot-covid/issues"
+  },
+  "homepage": "https://github.com/DBoyara/Node-tg-bot-covid#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "country-emoji": "^1.5.3",
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
