@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/DBoyara/Node-tg-bot-covid#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "country-emoji": "^1.5.3",
     "dotenv": "^8.2.0",
     "telegraf": "^3.38.0"
